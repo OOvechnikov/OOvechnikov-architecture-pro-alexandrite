@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OOvechnikov-architecture-pro-alexandrite.iml" filepath="$PROJECT_DIR$/.idea/OOvechnikov-architecture-pro-alexandrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pricing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pricing.main.iml" />
     </modules>
   </component>
 </project>
